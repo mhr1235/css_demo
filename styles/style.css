@@ -1,0 +1,33 @@
+     @font-face{
+        font-family:  "Dracula";
+        src: url("../fonts/BLOODRAC.TTF");
+      }
+
+
+    h1{
+    	font-family: 'Dracula';
+      color: green;
+      text-align: center;
+      font-size:100px;
+         
+      
+    }
+    
+    p{
+    	font-family: "Arial";
+      color: blue;
+      font-size:50px;
+      font-weight: bold;
+      color:  greenyellow;
+     }
+    
+    img{
+    	
+      border-radius: 30px;
+      width: 80%;
+      height: auto;
+    }
+    
+    
+    
+    
